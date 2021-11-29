@@ -1,0 +1,16 @@
+{
+  "name": "2.fundamentos-node",
+  "version": "0.0.1",
+  "description": "Generador de tablas de multiplicar en un archivo de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tabla3": "node app --tabla=3"
+  },
+  "author": "Carlos Segura",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.2.1"
+  }
+}
